@@ -1,0 +1,10 @@
+4 4 8
+DEFAULT
+AA
+BB
+CC
+DD
+EE
+FF
+GG
+HH

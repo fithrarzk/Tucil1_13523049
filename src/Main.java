@@ -23,7 +23,7 @@ public class Main {
 
             boolean found = solver.solve();
             if (found) {
-                solver.printSolution();
+                solver.printSolution(fileName);
             } else {
                 System.out.println("Tidak ada solusi yang ditemukan.");
             }

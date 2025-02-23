@@ -5,7 +5,7 @@
 | 13523049 | Muhammad Fithra Rizki |
 
 ## Deskripsi Tugas
-    Tugas ini berisi algoritma penyelesaian suatu permainan mengasah otak bernama IQ Puzzler Pro. Algoritma yang dibuat harus dibuat dengan pendekatan Brute Force tanpa menyertakan heuristik.
+Tugas ini berisi algoritma penyelesaian suatu permainan mengasah otak bernama IQ Puzzler Pro. Algoritma yang dibuat harus dibuat dengan pendekatan Brute Force tanpa menyertakan heuristik.
 
 ## Struktur Program
 ```bash

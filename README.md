@@ -43,4 +43,4 @@ Tugas ini berisi algoritma penyelesaian suatu permainan mengasah otak bernama IQ
 2. Setelah program di run, pengguna akan diminta untuk mengetik nama file yang ingin dicari solusinya
 3. Tekan tombol "Solve" untuk mencari hasil
 4. Hasil akan keluar dalam bentuk gambar jika masalah memiliki solusi, jika tidak akan muncul pesan tidak ada hasil
-5. Tekan tombol untuk menyimpan hasil sebagai teks atau gambar jika ingin menyimpan hasil dari permasalahan yang ada
+5. Tekan tombol untuk menyimpan hasil sebagai teks atau gambar jika ingin menyimpan hasil dari permasalahan yang ada. File akan disimpan pada folder test/output/
